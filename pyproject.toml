@@ -13,6 +13,8 @@ ipython = "^8.4.0"
 jupyterlab = "^3.4.3"
 matplotlib = "^3.5.2"
 scipy = "^1.8.1"
+scikit-learn = "^1.1.2"
+opendatasets = "^0.1.22"
 
 [tool.poetry.dev-dependencies]
 
